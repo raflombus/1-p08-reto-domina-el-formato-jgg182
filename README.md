@@ -1,4 +1,4 @@
-# RETO 1.P08: Domina el formato
+# RETO 1.p08: Domina el formato
 Copia más abajo tus programas, cada uno en su parte del reto.
 
 # PROGRAMAS
